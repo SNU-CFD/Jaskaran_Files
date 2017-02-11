@@ -3,7 +3,7 @@ Files which have OpenFOAM tutorials for your help.
 
 /*********************************************************************************************************************************/
 
-                                                       O p e n F O A M
+O p e n F O A M     T u t o r i a l
 
 The Temperature simulation of the T junction has been done here. 
 I have created a T-junction using the pitzDaily case from the folder: tutorials/incompressible/simpleFoam/pitzDaily.
